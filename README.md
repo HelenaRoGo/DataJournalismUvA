@@ -4,3 +4,4 @@ In it, I put into practice what we have learned about Python over 6 weeks of cla
 My journalistic project focuses on **the role of finance in the arms business**.
 
 I hope you find it interesting!
+PS: I am also exploring GitHub for the first time, so tips are very welcome!.
